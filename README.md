@@ -1,1 +1,4 @@
-# interactive_datavisualization_with_d3js_lp1_starter
+# Interactive Data Visualization with D3js - Project 1 starter
+## A Manning's liveProject
+
+These are the starter files for Project 1.
